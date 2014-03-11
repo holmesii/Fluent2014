@@ -1,0 +1,22 @@
+{
+  "name": "Fluent2014",
+  "version": "0.0.1",
+  "description": "this is a test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holmesii/Fluent2014.git"
+  },
+  "keywords": [
+    "fluent",
+    "application"
+  ],
+  "author": "John Huang",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/holmesii/Fluent2014/issues"
+  }
+}
